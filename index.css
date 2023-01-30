@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    text-align: center;
+;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    color: white;
+}
+
+.home-score{
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    font-family: Cursed Timer ULiL;
+
+
+}
+
+.home-score2{
+    position: absolute;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+}
+
+button{
+    background: none;
+    color: #9AABD8;
+    border-color: #9AABD8;
+
+}
